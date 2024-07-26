@@ -34,16 +34,13 @@ After the data cleaning process, exploratory analysis on the dataset was perform
 
   - Analyzed the distribution of prices and ratings for Airbnb listings.
   - ![download (1)](https://github.com/user-attachments/assets/315d90a7-a2ae-4607-ab7c-b5758675ca54)
-
   - Understood relationship between various features with price
-  - ![download (2)](https://github.com/user-attachments/assets/7264ac84-ed4d-403b-ba30-f53ce69727ab)
-
+  - ![download](https://github.com/user-attachments/assets/b9207fdf-52e8-481b-b492-935963c54183)
   - endoded text features into 1 & 0 to find correlation between them and price.
   - Analyzed the distribution of listings across different price segments.
-  - ![download (3)](https://github.com/user-attachments/assets/a78754fb-e28c-4288-b591-e2a939e2bf48)
-  - 
+  - ![download (2)](https://github.com/user-attachments/assets/7264ac84-ed4d-403b-ba30-f53ce69727ab)
   - analyzed top anemities provided by each property segment.
-  - ![download](https://github.com/user-attachments/assets/b9207fdf-52e8-481b-b492-935963c54183)
+  - ![download (3)](https://github.com/user-attachments/assets/a78754fb-e28c-4288-b591-e2a939e2bf48)
   - Identified the top destinations generating the highest revenue.
 
 ### 3. Visualization and Dashboard Creation
