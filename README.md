@@ -12,7 +12,7 @@ The Pricing insight Dashboard for Airbnb Listings and Pricing Analysis.
 ## Jupyter Notebooks
 In case of failure of loading Jupyter Notebooks on GitHub, the following notebooks can be found in nbviewer. Click on the respective hyperlinks to view:
 
-- [Data Cleaning](link_to_nbviewer_data_cleaning)
+- [Data Cleaning]([link_to_nbviewer_data_cleaning](https://nbviewer.org/github/Rahulloriya/Airbnb-Data-analytics-project-/blob/main/3.Airbnb_Cleaned_2))
 - [Exploratory Data Analysis](link_to_nbviewer_data_exploration_analysis)
 
 ## Analysis Approach
