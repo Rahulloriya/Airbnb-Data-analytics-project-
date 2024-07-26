@@ -5,6 +5,7 @@ The purpose of this project is to conduct a comprehensive data cleaning and expl
 
 ## Powerbi Dashboard
 The Pricing insight Dashboard for Airbnb Listings and Pricing Analysis.
+Assets/2024-07-26-09-07-24.gif
 
 
 ## Jupyter Notebooks
