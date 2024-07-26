@@ -7,14 +7,11 @@ The purpose of this project is to conduct a comprehensive data cleaning and expl
 The Pricing insight Dashboard for Airbnb Listings and Pricing Analysis.
 ![2024-07-26-09-07-24](https://github.com/user-attachments/assets/ab5ec900-5fbd-4b71-8503-449365062d8e)
 
-
-
 ## Jupyter Notebooks
 In case of failure of loading Jupyter Notebooks on GitHub, the following notebooks can be found in nbviewer. Click on the respective hyperlinks to view:
 
 - Data Cleaning: [link to nbviewer data cleaning](https://nbviewer.org/github/Rahulloriya/Airbnb-Data-analytics-project-/blob/main/3.Airbnb_Cleaned_2.ipynb)
 - Exploratory Data Analysis: [link to nbviewer data exploration analysis](https://nbviewer.org/github/Rahulloriya/Airbnb-Data-analytics-project-/blob/main/4.Airbnb%20Exploration%20and%20analysis%20.ipynb)
-
 
 ## Analysis Approach
 ### 1. Data Quality Assessment and Data Cleaning
@@ -42,6 +39,7 @@ After the data cleaning process, exploratory analysis on the dataset was perform
   - analyzed top anemities provided by each property segment.
   - ![download (3)](https://github.com/user-attachments/assets/a78754fb-e28c-4288-b591-e2a939e2bf48)
   - Identified the top destinations generating the highest revenue.
+  - ![download (4)](https://github.com/user-attachments/assets/664c0635-01c5-4cbc-9794-2b381726bd10)
 
 ### 3. Visualization and Dashboard Creation
 A comprehensive dashboard was created to visualize the key findings and insights from the analysis. The dashboard includes:
@@ -52,10 +50,10 @@ A comprehensive dashboard was created to visualize the key findings and insights
 - **Top Revenue Generators**: Highlights the top destinations generating the highest revenue.
 
 ## Datasets Used
-The dataset used includes:
-
-- **airbnb.csv**: This dataset included detailed information about Airbnb listings such as prices, ratings, property types, and locations.
+- **airbnb raw.csv**: This dataset included detailed information about Airbnb listings such as prices, ratings, property types, and locations.
+- [link to actual dataset from kaggle](https://www.kaggle.com/datasets/ashishjangra27/airbnb-dataset)
 
 ## Tools and Technologies Used
 - **Python**: For Data Quality Assessment, Data Cleaning, and Exploratory Data Analysis using libraries like pandas, matplotlib, and seaborn.
-- **Tableau**: For creating the Sales Dashboard to visualize customer segmentation and analysis.
+- **Excel**: For minor analysis and broad view to make decisions. 
+- **Powerbi**: For creating the Pricing insight Dashboard to visualize analysis.
