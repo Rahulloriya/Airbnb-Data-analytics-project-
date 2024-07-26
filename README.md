@@ -19,25 +19,21 @@ The first step towards generating useful insights from the data was the data pre
 
 In the data cleaning step, the following data quality issues were observed and the necessary process to mitigate the issues was followed:
 
-- **airbnb DataFrame**:
+- **airbnb Datacleaning**:
   - Dropped irrelevant columns.
   - Handled missing values appropriately.
   - Standardized data and removed inconsistencies.
   - Created new features from existing columns.
+  - Seperate and categorized various columns.
 
 ### 2. Exploratory Data Analysis
 After the data cleaning process, exploratory analysis on the dataset was performed and the following insights were obtained:
 
-- **Average Price and Ratings**:
   - Analyzed the distribution of prices and ratings for Airbnb listings.
-  
-- **Guest Engagement Across Property Segments**:
-  - Identified which property segments received the most reviews.
-  
-- **Market Share: Balancing Affordability and Luxury**:
+  - Understood relationship between various features with price
+  - endoded text features into 1 & 0 to find correlation between them and price.
   - Analyzed the distribution of listings across different price segments.
-
-- **Premium Destinations: Top Revenue Generators**:
+  - analyzed top anemities provided by each property segment. 
   - Identified the top destinations generating the highest revenue.
 
 ### 3. Visualization and Dashboard Creation
