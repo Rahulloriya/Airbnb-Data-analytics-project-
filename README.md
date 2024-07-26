@@ -12,7 +12,7 @@ The Pricing insight Dashboard for Airbnb Listings and Pricing Analysis.
 ## Jupyter Notebooks
 In case of failure of loading Jupyter Notebooks on GitHub, the following notebooks can be found in nbviewer. Click on the respective hyperlinks to view:
 
-- Data Cleaning: [link_to_nbviewer_data_cleaning]([https://nbviewer.org/github/Rahulloriya/Airbnb-Data-analytics-project-/blob/main/3.Airbnb_Cleaned_2)
+- Data Cleaning: [link to nbviewer data cleaning](https://nbviewer.org/github/Rahulloriya/Airbnb-Data-analytics-project-/blob/main/3.Airbnb_Cleaned_2.ipynb)
 - Exploratory Data Analysis: [link to nbviewer data exploration analysis](https://nbviewer.org/github/Rahulloriya/Airbnb-Data-analytics-project-/blob/main/4.Airbnb%20Exploration%20and%20analysis%20.ipynb)
 
 
@@ -33,10 +33,17 @@ In the data cleaning step, the following data quality issues were observed and t
 After the data cleaning process, exploratory analysis on the dataset was performed and the following insights were obtained:
 
   - Analyzed the distribution of prices and ratings for Airbnb listings.
+  - ![download (1)](https://github.com/user-attachments/assets/315d90a7-a2ae-4607-ab7c-b5758675ca54)
+
   - Understood relationship between various features with price
+  - ![download (2)](https://github.com/user-attachments/assets/7264ac84-ed4d-403b-ba30-f53ce69727ab)
+
   - endoded text features into 1 & 0 to find correlation between them and price.
   - Analyzed the distribution of listings across different price segments.
-  - analyzed top anemities provided by each property segment. 
+  - ![download (3)](https://github.com/user-attachments/assets/a78754fb-e28c-4288-b591-e2a939e2bf48)
+  - 
+  - analyzed top anemities provided by each property segment.
+  - ![download](https://github.com/user-attachments/assets/b9207fdf-52e8-481b-b492-935963c54183)
   - Identified the top destinations generating the highest revenue.
 
 ### 3. Visualization and Dashboard Creation
@@ -46,8 +53,6 @@ A comprehensive dashboard was created to visualize the key findings and insights
 - **Guest Engagement**: Shows the engagement across different property segments.
 - **Market Share**: Illustrates the balance between affordable and luxury listings.
 - **Top Revenue Generators**: Highlights the top destinations generating the highest revenue.
-
-![Airbnb Dashboard](link_to_screenshot)
 
 ## Datasets Used
 The dataset used includes:
