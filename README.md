@@ -40,6 +40,7 @@ After the data cleaning process, exploratory analysis on the dataset was perform
    ![download (3)](https://github.com/user-attachments/assets/a78754fb-e28c-4288-b591-e2a939e2bf48)
   - Identified the top destinations generating the highest revenue.
    ![download (4)](https://github.com/user-attachments/assets/664c0635-01c5-4cbc-9794-2b381726bd10)
+  -Performed hypothesis testing to identify significant relationships between variables and draw meaningful inferences.
 
 ### 3. Visualization and Dashboard Creation
 A comprehensive dashboard was created to visualize the key findings and insights from the analysis. The dashboard includes:
